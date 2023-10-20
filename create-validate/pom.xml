@@ -54,7 +54,7 @@
   <properties>
     <!-- Versions on dependencies -->
     <bouncy-castle.version>1.68</bouncy-castle.version>
-    <xmlsec.version>2.2.1</xmlsec.version>    
+    <xmlsec.version>2.2.6</xmlsec.version>    
     <zxing.version>3.4.1</zxing.version>
   </properties>
 
